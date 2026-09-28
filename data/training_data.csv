@@ -1,0 +1,25 @@
+text,risk
+"customer name address phone number payment details bank account financial transaction confidential information",High
+"employee salary bank details personal information confidential company records",High
+"credit card number account number financial records customer data",High
+"medical records patient information personal identification confidential data",High
+"password login credentials authentication secret access information",High
+"internal company financial report confidential business information",High
+"customer contact details and transaction history",High
+"legal contract containing confidential client information",High
+"public company announcement about office holiday",Low
+"general information about company working hours",Low
+"public product description and pricing information",Low
+"office location and contact information available on website",Low
+"general employee training schedule",Low
+"public event announcement and registration information",Low
+"company mission statement and public services",Low
+"general website content with no private information",Low
+"internal meeting notes with project updates",Medium
+"employee attendance report without financial information",Medium
+"internal project document containing non-sensitive information",Medium
+"business proposal with limited confidential information",Medium
+"department performance report for internal review",Medium
+"internal customer service guidelines",Medium
+"draft marketing strategy for internal discussion",Medium
+"internal training document containing company procedures",Medium
